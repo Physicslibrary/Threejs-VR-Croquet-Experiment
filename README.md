@@ -3,6 +3,8 @@ Explore Croquet real-time shared VR experiences with Threejs<br>
 
 <img src="threejs-croquet-dec-10-2021.gif" width="240">
 
+Oculus Browser (top), Raspberry Pi Chromium, and Safari. Rotating cube at right controller/hand when trigger is pressed. Rotating cube in front z = -4 with left trigger.<br>
+
 # Hardware
 
 Oculus Quest (tested Quest One, update 35.0, Oculus browser 18.0)<br>
