@@ -1,4 +1,4 @@
-# Threejs-VR-Croquet-Experiment (under construction)
+# Threejs-VR-Croquet-Experiment
 
 Explore Croquet real-time shared VR experiences with Threejs.<br>
 
